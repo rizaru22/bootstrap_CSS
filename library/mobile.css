@@ -36,7 +36,7 @@ position: relative;
     font-weight: 600;
 }
 .jumbotron{
-    background-image: url(/assets/image/pexels-fauxels-3183150.jpg);
+    background-image: url(../assets/image/pexels-fauxels-3183150.jpg);
     background-size: cover;
     text-align: left;
     position: relative;
